@@ -7,10 +7,6 @@ Welcome to the Coffee Break Quiz! This web application is a fun and engaging way
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
